@@ -5,8 +5,8 @@
     "icon": "fa fa-blog"
   },
   {
-    "name": "雨云",
-    "url": "https://www.rainyun.com/Lin_",
+    "name": "网盘",
+    "url": "https://alist.aabbss.de",
     "icon": "fa fa-cloud "
   },
   {
@@ -15,18 +15,18 @@
     "icon": "fa fa-image"
   },
   {
-    "name": "封面",
-    "url": "https://cover.bsgun.cn",
-    "icon": "fa fa-panorama"
+    "name": "统计",
+    "url": "https://mmw.aabbss.de",
+    "icon": "fa-solid fa-chart-column"
   },
   {
-    "name": "监测",
-    "url": "https://status.bsgun.cn",
+    "name": "探针",
+    "url": "https://panel.aabbss.de",
     "icon": "fa fa-chart-line"
   },
   {
-    "name": "图标",
+    "name": "笔记",
     "url": "https://icon.bsgun.cn/",
-    "icon": "fa fa-icons"
+    "icon": "fa-solid fa-note-sticky"
   }
 ]
